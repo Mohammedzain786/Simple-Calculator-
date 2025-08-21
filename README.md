@@ -1,4 +1,4 @@
-# Simple-Calculator- 
+# Simple-Calculator
 
 A simple calculator program built in Python to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
